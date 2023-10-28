@@ -3,20 +3,20 @@
 원본 최종 미션 커밋 이력을 그대로 이식 후, 별도의 폴더로 정리하는 방식으로 기록
 
 ## 프리코스
-|   | 미션명 | 기간 | 저장소 | PR |
-|---|---|---|---|---|
-| 1 | 온보딩 | '22.10.26 ~ '22.11.01 | [백업](https://github.com/gabrielyoon7/woowacourse-archive/tree/main/precourse/javascript-onboarding) | [PR](https://github.com/woowacourse-precourse/javascript-onboarding/pull/150) |
-| 2 | 숫자 야구 | '22.11.02 ~ '22.11.08 | [백업](https://github.com/gabrielyoon7/woowacourse-archive/tree/main/precourse/javascript-basball) | [PR](https://github.com/woowacourse-precourse/javascript-baseball/pull/6) |
-| 3 | 로또 | '22.11.09 ~ '22.11.15 | [백업](https://github.com/gabrielyoon7/woowacourse-archive/tree/main/precourse/javascript-lotto-precourse) | [PR](https://github.com/woowacourse-precourse/javascript-lotto/pull/27) |
-| 4 | 다리 건너기 | '22.11.16 ~ '22.11.22 | [백업](https://github.com/gabrielyoon7/woowacourse-archive/tree/main/precourse/javascript-bridge) | [PR](https://github.com/woowacourse-precourse/javascript-bridge/pull/124) |
+|   | 미션명 | 기간 | 저장소 |
+|---|---|---|---|
+| 1 | 온보딩 | '22.10.26 ~ '22.11.01 | [GitHub Repository](https://github.com/gabrielyoon7/javascript-onboarding/tree/gabrielyoon7) |
+| 2 | 숫자 야구 | '22.11.02 ~ '22.11.08 | [GitHub Repository](https://github.com/gabrielyoon7/javascript-baseball/tree/gabrielyoon7) |
+| 3 | 로또 | '22.11.09 ~ '22.11.15 | [GitHub Repository](https://github.com/gabrielyoon7/javascript-lotto-precourse/tree/gabrielyoon7) |
+| 4 | 다리 건너기 | '22.11.16 ~ '22.11.22 | [GitHub Repository](https://github.com/gabrielyoon7/javascript-bridge/tree/gabrielyoon7) |
 
 - [[회고] 우아한테크코스 5기 프리코스 (FE)](https://leirbag.tistory.com/125)
 - [우아한테크코스 5기 프리코스 (FE) 1차 합격!](https://leirbag.tistory.com/126)
 
 ## 프리코스(최종)
-|   | 미션명 | 기간 | 저장소 | PR |
-|---|---|---|---|---|
-| 1 | 점심 메뉴 추천 | '22.12.17 | [백업](https://github.com/gabrielyoon7/woowacourse-archive/tree/main/precourse/javascript-menu) | [PR](https://github.com/woowacourse-precourse/javascript-menu/pull/101) |
+|   | 미션명 | 기간 | 저장소 |
+|---|---|---|---|
+| 1 | 점심 메뉴 추천 | '22.12.17 | [GitHub Repository](https://github.com/gabrielyoon7/javascript-menu/tree/gabrielyoon7) |
 
 - [우아한테크코스 5기 (FE) 최종 코딩테스트 후기](https://leirbag.tistory.com/127)
 
