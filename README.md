@@ -41,6 +41,8 @@
 | 3 | 장바구니 | '23.05.09 ~ '23.05.22 | [우코(김유권)](https://github.com/ukkodeveloper) | [Pull Request](https://github.com/woowacourse/react-shopping-cart/pull/161) | [Pull Request](https://github.com/woowacourse/react-shopping-cart/pull/231) |
 | 4 | 장바구니(협업) | '23.05.23 ~ '23.06.05 | [파인(임낭경)](https://github.com/nangkyeonglim) | [Pull Request](https://github.com/woowacourse/react-shopping-cart-prod/pull/78) | [Pull Request](https://github.com/woowacourse/react-shopping-cart-prod/pull/148) | 
 
+- [우아한테크코스 5기 FE 레벨 2을 마치며...](https://leirbag.tistory.com/150)
+
 ## 레벨 3
 
 팀 프로젝트
