@@ -23,23 +23,23 @@
 ---
 
 ## 레벨 1
-|   | 미션명 | 기간 | 페어 | 저장소 | PR(Step1) | PR(Step2) |
-|---|---|---|---|---|---|---|
-| 1 | 자동차 경주 게임 | '23.02.07 ~ '23.02.13 | [윤생(이윤성)](https://github.com/2yunseong) | [백업](https://github.com/gabrielyoon7/woowacourse-archive/tree/main/level1/javascript-racingcar) | [PR(STEP1)](https://github.com/woowacourse/javascript-racingcar/pull/153) | [PR(STEP2)](https://github.com/woowacourse/javascript-racingcar/pull/208)  |
-| 2 | 로또 | '23.02.14 ~ '23.02.27 | [도담(김민재)](https://github.com/D0Dam) | [백업](https://github.com/gabrielyoon7/woowacourse-archive/tree/main/level1/javascript-lotto) | [PR(STEP1)](https://github.com/woowacourse/javascript-lotto/pull/176) | [PR(STEP2)](https://github.com/woowacourse/javascript-lotto/pull/252)  |
-| 3 | 점심뭐먹지 | '23.02.28 ~ '23.03.13 | [라잇(강영민)](https://github.com/kangyeongmin) | [백업](https://github.com/gabrielyoon7/woowacourse-archive/tree/main/level1/javascript-lunch) | [PR(STEP1)](https://github.com/woowacourse/javascript-lunch/pull/19) | [PR(STEP2)](https://github.com/woowacourse/javascript-lunch/pull/58)  |
-| 4 | 영화리뷰 | '23.03.14 ~ '23.03.27 | [야미(이다인)](https://github.com/feb-dain) | [백업](https://github.com/gabrielyoon7/woowacourse-archive/tree/main/level1/javascript-movie-review) | [PR(STEP1)](https://github.com/woowacourse/javascript-movie-review/pull/14) | [PR(STEP2)](https://github.com/woowacourse/javascript-movie-review/pull/81)  |
+|   | 미션명 | 기간 | 페어 | Step1 | Step2 |
+|---|---|---|---|---|---|
+| 1 | 자동차 경주 게임 | '23.02.07 ~ '23.02.13 | [윤생(이윤성)](https://github.com/2yunseong) | [Pull Request](https://github.com/woowacourse/javascript-racingcar/pull/153) | [Pull Request](https://github.com/woowacourse/javascript-racingcar/pull/208)  |
+| 2 | 로또 | '23.02.14 ~ '23.02.27 | [도담(김민재)](https://github.com/D0Dam) | [Pull Request](https://github.com/woowacourse/javascript-lotto/pull/176) | [Pull Request](https://github.com/woowacourse/javascript-lotto/pull/252)  |
+| 3 | 점심뭐먹지 | '23.02.28 ~ '23.03.13 | [라잇(강영민)](https://github.com/kangyeongmin) | [Pull Request](https://github.com/woowacourse/javascript-lunch/pull/19) | [Pull Request](https://github.com/woowacourse/javascript-lunch/pull/58)  |
+| 4 | 영화리뷰 | '23.03.14 ~ '23.03.27 | [야미(이다인)](https://github.com/feb-dain) | [Pull Request](https://github.com/woowacourse/javascript-movie-review/pull/14) | [Pull Request](https://github.com/woowacourse/javascript-movie-review/pull/81)  |
 
 - [우아한테크코스 한 달 생활기](https://leirbag.tistory.com/134)
 - [우아한테크코스 5기 FE 레벨 1을 마치며...](https://leirbag.tistory.com/141)
 
 ## 레벨 2
-|   | 미션명 | 기간 | 페어 | 저장소 | PR(Step1) | PR(Step2) | PR(Step3) |
-|---|---|---|---|---|---|---|---|
-| 1 | 다시,점심뭐먹지 | '23.04.11 ~ '23.04.17 | [제레미(김민석)](https://github.com/shackstack) | [백업](https://github.com/gabrielyoon7/woowacourse-archive/tree/main/level2/react-lunch) | [PR(STEP1)](https://github.com/woowacourse/react-lunch/pull/1) | [PR(STEP2)](https://github.com/woowacourse/react-lunch/pull/59) |  |
-| 2 | 페이먼츠 | '23.04.18 ~ '23.05.08 | [노아(김홍동)](https://github.com/nlom0218) | [백업](https://github.com/gabrielyoon7/woowacourse-archive/tree/main/level2/react-payments) | [PR(STEP1)](https://github.com/woowacourse/react-payments/pull/187) | [PR(STEP2)](https://github.com/woowacourse/react-payments/pull/254) | [PR(STEP3)](https://github.com/woowacourse/react-payments/pull/291) |  |
-| 3 | 장바구니 | '23.05.09 ~ '23.05.22 | [우코(김유권)](https://github.com/ukkodeveloper) | [백업](https://github.com/gabrielyoon7/woowacourse-archive/tree/main/level2/react-shopping-cart) | [PR(STEP1)](https://github.com/woowacourse/react-shopping-cart/pull/161) | [PR(STEP2)](https://github.com/woowacourse/react-shopping-cart/pull/231) |
-| 4 | 장바구니(협업) | '23.05.23 ~ '23.06.05 | [파인(임낭경)](https://github.com/nangkyeonglim) | [백업](https://github.com/gabrielyoon7/woowacourse-archive/tree/main/level2/react-shopping-cart-prod) | [PR(STEP1)](https://github.com/woowacourse/react-shopping-cart-prod/pull/78) | [PR(STEP2)](https://github.com/woowacourse/react-shopping-cart-prod/pull/148) | 
+|   | 미션명 | 기간 | 페어 | PR(Step1) | PR(Step2) | PR(Step3) |
+|---|---|---|---|---|---|---|
+| 1 | 다시,점심뭐먹지 | '23.04.11 ~ '23.04.17 | [제레미(김민석)](https://github.com/shackstack) | [Pull Request](https://github.com/woowacourse/react-lunch/pull/1) | [Pull Request](https://github.com/woowacourse/react-lunch/pull/59) |  |
+| 2 | 페이먼츠 | '23.04.18 ~ '23.05.08 | [노아(김홍동)](https://github.com/nlom0218) | [Pull Request](https://github.com/woowacourse/react-payments/pull/187) | [Pull Request](https://github.com/woowacourse/react-payments/pull/254) | [Pull Request](https://github.com/woowacourse/react-payments/pull/291) |  |
+| 3 | 장바구니 | '23.05.09 ~ '23.05.22 | [우코(김유권)](https://github.com/ukkodeveloper) | [Pull Request](https://github.com/woowacourse/react-shopping-cart/pull/161) | [Pull Request](https://github.com/woowacourse/react-shopping-cart/pull/231) |
+| 4 | 장바구니(협업) | '23.05.23 ~ '23.06.05 | [파인(임낭경)](https://github.com/nangkyeonglim) | [Pull Request](https://github.com/woowacourse/react-shopping-cart-prod/pull/78) | [Pull Request](https://github.com/woowacourse/react-shopping-cart-prod/pull/148) | 
 
 ## 레벨 3
 
@@ -52,11 +52,11 @@
 - [카페인 팀 블로그](https://car-ffeine.github.io/archive)
 
 ## 레벨 4
-|   | 미션명 | 기간 | 저장소 | PR(Step1) | PR(Step2) |
-|---|---|---|---|---|---|
-| 1 | 프론트엔드 성능 베이스캠프 | '23.08.31 ~ '23.09.12 |  |  |  |
-| 2 | 재사용 가능한 레이아웃 컴포넌트 설계와 구현 | '23.09.13 ~ '23.10.03 |  |  |  |
-| 3 | 프론트엔드의 렌더링 | '23.10.04 ~ '23.10.23 |  |  |  |
+|   | 미션명 | 기간  | PR(Step1) | PR(Step2) |
+|---|---|---|---|---|
+| 1 | 프론트엔드 성능 베이스캠프 | '23.08.31 ~ '23.09.12 |  |  |
+| 2 | 재사용 가능한 레이아웃 컴포넌트 설계와 구현 | '23.09.13 ~ '23.10.03 |  |  |
+| 3 | 프론트엔드의 렌더링 | '23.10.04 ~ '23.10.23 |  |  |
 
 
 ---
