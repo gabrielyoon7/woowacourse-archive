@@ -34,7 +34,7 @@
 - [우아한테크코스 5기 FE 레벨 1을 마치며...](https://leirbag.tistory.com/141)
 
 ## 레벨 2
-|   | 미션명 | 기간 | 페어 | PR(Step1) | PR(Step2) | PR(Step3) |
+|   | 미션명 | 기간 | 페어 | Step1 | Step2 | Step3 |
 |---|---|---|---|---|---|---|
 | 1 | 다시,점심뭐먹지 | '23.04.11 ~ '23.04.17 | [제레미(김민석)](https://github.com/shackstack) | [Pull Request](https://github.com/woowacourse/react-lunch/pull/1) | [Pull Request](https://github.com/woowacourse/react-lunch/pull/59) |  |
 | 2 | 페이먼츠 | '23.04.18 ~ '23.05.08 | [노아(김홍동)](https://github.com/nlom0218) | [Pull Request](https://github.com/woowacourse/react-payments/pull/187) | [Pull Request](https://github.com/woowacourse/react-payments/pull/254) | [Pull Request](https://github.com/woowacourse/react-payments/pull/291) |  |
@@ -52,6 +52,8 @@
 
 - [카페인 Repository](https://github.com/woowacourse-teams/2023-car-ffeine)
 - [카페인 팀 블로그](https://car-ffeine.github.io/archive)
+- [서비스 소개글](https://sites.google.com/woowahan.com/woowacourse-demo-5th/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8/%EC%B9%B4%ED%8E%98%EC%9D%B8?authuser=0)
+- [우아한테크코스 5기 FE 레벨 3을 마치며...](https://leirbag.tistory.com/155)
 
 ## 레벨 4
 |   | 미션명 | 기간  | PR(Step1) | PR(Step2) |
