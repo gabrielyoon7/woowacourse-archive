@@ -58,13 +58,14 @@
 ## 레벨 4
 |   | 미션명 | 기간  | PR(Step1) | PR(Step2) |
 |---|---|---|---|---|
-| 1 | 프론트엔드 성능 베이스캠프 | '23.08.31 ~ '23.09.12 |  |  |
-| 2 | 재사용 가능한 레이아웃 컴포넌트 설계와 구현 | '23.09.13 ~ '23.10.03 |  |  |
-| 3 | 프론트엔드의 렌더링 | '23.10.04 ~ '23.10.23 |  |  |
+| 1 | 프론트엔드 성능 베이스캠프 | '23.08.31 ~ '23.09.12 | [Pull Request](https://github.com/woowacourse/perf-basecamp/pull/70) |  |
+| 2 | 재사용 가능한 레이아웃 컴포넌트 설계와 구현 | '23.09.13 ~ '23.10.03 | [Pull Request](https://github.com/woowacourse/layout-component/pull/23) | [Pull Request](https://github.com/woowacourse/layout-component/pull/62) |
+| 3 | 프론트엔드의 렌더링 | '23.10.04 ~ '23.10.23 | [Pull Request](https://github.com/woowacourse/frontend-rendering/pull/24) | [Pull Request](https://github.com/woowacourse/frontend-rendering/pull/84) |
 
 
 ---
 
+<!--
 ## 미러링 방식
 
 이름이 겹칠만한 파일이나 폴더를 생성하지 않고, 프로젝트 수신 이후에 옮겨 줄 백업용 폴더만을 생성한다.
@@ -84,3 +85,4 @@ git merge <REPO_NAME>/<BRANCH_NAME> --allow-unrelated-histories
 파일 수신 이후 폴더 및 파일들 원하는 위치(백업용 폴더)에 옮겨주기 (정리)
 
 전체 커밋 및 푸쉬
+-->
