@@ -1,6 +1,6 @@
 # 우아한테크코스 미션 저장소
 
-원본 최종 미션 커밋 이력을 그대로 이식 후, 별도의 폴더로 정리하는 방식으로 기록
+<!-- 원본 최종 미션 커밋 이력을 그대로 이식 후, 별도의 폴더로 정리하는 방식으로 기록 -->
 
 ## 프리코스
 |   | 미션명 | 기간 | 저장소 |
@@ -61,6 +61,7 @@
 | 1 | 프론트엔드 성능 베이스캠프 | '23.08.31 ~ '23.09.12 | [Pull Request](https://github.com/woowacourse/perf-basecamp/pull/70) |  |
 | 2 | 재사용 가능한 레이아웃 컴포넌트 설계와 구현 | '23.09.13 ~ '23.10.03 | [Pull Request](https://github.com/woowacourse/layout-component/pull/23) | [Pull Request](https://github.com/woowacourse/layout-component/pull/62) |
 | 3 | 프론트엔드의 렌더링 | '23.10.04 ~ '23.10.23 | [Pull Request](https://github.com/woowacourse/frontend-rendering/pull/24) | [Pull Request](https://github.com/woowacourse/frontend-rendering/pull/84) |
+
 
 
 ---
