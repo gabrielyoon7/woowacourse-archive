@@ -2,7 +2,7 @@
 
 <!-- 원본 최종 미션 커밋 이력을 그대로 이식 후, 별도의 폴더로 정리하는 방식으로 기록 -->
 
-## 프리코스
+### 프리코스
 |   | 미션명 | 기간 | 저장소 |
 |---|---|---|---|
 | 1 | 온보딩 | '22.10.26 ~ '22.11.01 | [GitHub Repository](https://github.com/gabrielyoon7/javascript-onboarding/tree/gabrielyoon7) |
@@ -13,7 +13,7 @@
 - [[회고] 우아한테크코스 5기 프리코스 (FE)](https://leirbag.tistory.com/125)
 - [우아한테크코스 5기 프리코스 (FE) 1차 합격!](https://leirbag.tistory.com/126)
 
-## 프리코스(최종)
+### 프리코스(최종)
 |   | 미션명 | 기간 | 저장소 |
 |---|---|---|---|
 | 1 | 점심 메뉴 추천 | '22.12.17 | [GitHub Repository](https://github.com/gabrielyoon7/javascript-menu/tree/gabrielyoon7) |
@@ -30,6 +30,7 @@
 | 3 | 점심뭐먹지 | '23.02.28 ~ '23.03.13 | [라잇(강영민)](https://github.com/kangyeongmin) | [Pull Request](https://github.com/woowacourse/javascript-lunch/pull/19) | [Pull Request](https://github.com/woowacourse/javascript-lunch/pull/58)  |
 | 4 | 영화리뷰 | '23.03.14 ~ '23.03.27 | [야미(이다인)](https://github.com/feb-dain) | [Pull Request](https://github.com/woowacourse/javascript-movie-review/pull/14) | [Pull Request](https://github.com/woowacourse/javascript-movie-review/pull/81)  |
 
+- [[10분 테코톡] 가브리엘의 클래스와 객체](https://youtu.be/xt9uzb39K5w?si=b79T3xUuh_zQJ9Rk)
 - [우아한테크코스 한 달 생활기](https://leirbag.tistory.com/134)
 - [우아한테크코스 5기 FE 레벨 1을 마치며...](https://leirbag.tistory.com/141)
 
