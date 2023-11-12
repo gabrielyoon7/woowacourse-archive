@@ -43,6 +43,7 @@
 | 4 | 장바구니(협업) | '23.05.23 ~ '23.06.05 | [파인(임낭경)](https://github.com/nangkyeonglim) | [Pull Request](https://github.com/woowacourse/react-shopping-cart-prod/pull/78) | [Pull Request](https://github.com/woowacourse/react-shopping-cart-prod/pull/148) | 
 
 - [우아한테크코스 5기 FE 레벨 2을 마치며...](https://leirbag.tistory.com/150)
+- [나의 개발 여정 : 왜 하필 프론트엔드였을까?](https://github.com/gabrielyoon7/woowa-writing-5/blob/gabrielyoon7/level-2.md)
 
 ## 레벨 3
 
@@ -63,7 +64,7 @@
 | 2 | 재사용 가능한 레이아웃 컴포넌트 설계와 구현 | '23.09.13 ~ '23.10.03 | [Pull Request](https://github.com/woowacourse/layout-component/pull/23) | [Pull Request](https://github.com/woowacourse/layout-component/pull/62) |
 | 3 | 프론트엔드의 렌더링 | '23.10.04 ~ '23.10.23 | [Pull Request](https://github.com/woowacourse/frontend-rendering/pull/24) | [Pull Request](https://github.com/woowacourse/frontend-rendering/pull/84) |
 
-
+- [내가 꿈꾸는 프로그래머의 삶](https://github.com/gabrielyoon7/woowa-writing-5/blob/gabrielyoon7/level-4.md)
 
 ---
 
